@@ -1,0 +1,81 @@
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.exe
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.deps.json
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.runtimeconfig.json
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.pdb
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.AssemblyReference.cache
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Views\MainWindowView.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1_MarkupCompile.cache
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1_MarkupCompile.lref
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\App.baml
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Views\MainWindowView.baml
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.g.resources
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.AssemblyInfoInputs.cache
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.AssemblyInfo.cs
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.CoreCompileInputs.cache
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\refint\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.pdb
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.genruntimeconfig.cache
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\ref\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Learning\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.CopyComplete
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.exe
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.deps.json
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.runtimeconfig.json
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.pdb
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.AssemblyReference.cache
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Views\MainWindowView.g.cs
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1_MarkupCompile.cache
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1_MarkupCompile.lref
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\App.baml
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Views\MainWindowView.baml
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.g.resources
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.AssemblyInfoInputs.cache
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.AssemblyInfo.cs
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.CoreCompileInputs.cache
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.CopyComplete
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\refint\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.pdb
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.genruntimeconfig.cache
+C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\obj\Debug\net6.0-windows\ref\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.exe
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.deps.json
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.runtimeconfig.json
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\bin\Debug\net6.0-windows\Lab3Q1.pdb
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.AssemblyReference.cache
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Views\MainWindowView.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1_MarkupCompile.cache
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1_MarkupCompile.lref
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\App.baml
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Views\MainWindowView.baml
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.g.resources
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.AssemblyInfoInputs.cache
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.AssemblyInfo.cs
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.CoreCompileInputs.cache
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.csproj.CopyComplete
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\refint\Lab3Q1.dll
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.pdb
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\Lab3Q1.genruntimeconfig.cache
+C:\Users\kwwon\Desktop\Programming\CS\Projects\FoodOrderApplication\Lab3Q1\obj\Debug\net6.0-windows\ref\Lab3Q1.dll

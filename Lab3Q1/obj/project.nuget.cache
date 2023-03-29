@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMGAbLHkgLJ7StNHkTP+xTYc+1AlTNMoRLEAfgXOB9cpzgibFI752zIOlFcysw6uOSqSGsie9AP3HW/RFIJxDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwwon\\Desktop\\Programming\\CS\\Projects\\FoodOrderApplication\\Lab3Q1\\Lab3Q1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwwon\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

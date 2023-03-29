@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab3Q1_mlytdyax_wpftmp
+build_property.ProjectDir = C:\Users\kwwon\Desktop\Centennial College\Sem4\COMP212-001 Programming 3\AssignmentSubmission\Lab3\Lab3Q1\Lab3Q1\
